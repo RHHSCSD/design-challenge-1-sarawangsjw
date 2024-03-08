@@ -6,27 +6,27 @@ package designprojectone;
 import java.util.*;
 /***************************************************
 *
-*  Program:
+*  Program:TechFairCostCalculator
 *  Author:
 *  Date: 
 *  Description:
 ****************************************************/
 
 /**************** IPO CHART ************************
-*INPUT:
+*INPUT:Total number of students, fixed costs, variable costs for additional materials, project each  chooses
 *
 *
-*PROCESSING:
+*PROCESSING:Calculate total cost
 *
 *
 *
-*OUTPUT:
+*OUTPUT:Material cost for each student
 *
 *
 ***************************************************/
   
 /**************** TEST CASES ************************
-*Test      Input      Desired Ouput
+*Test      Input      Desired Output
 *
 *
 *
